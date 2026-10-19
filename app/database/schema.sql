@@ -1,0 +1,1 @@
+-- Estrutura das tabelas do banco de dados.
